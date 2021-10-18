@@ -3,4 +3,4 @@
 
 Poderá acessar o site através deste <a href="https://lucasmaia138.github.io/desafiobrasilsystem2/" target="_blank">Link</a>
 
-Tecnologia utilizada: HTML, CSS e JS
+Tecnologias utilizadas: HTML, CSS e JS
